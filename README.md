@@ -28,4 +28,4 @@
 <br/>
 
 ### 🍀 More about me   
-   > [Lala's Profile Page](https://sulfuric-rodent-b48.notion.site/8ee251dd75f34d0687b9f200d931e453, "notion link")
+   > [Lala's Profile Page](https://sulfuric-rodent-b48.notion.site/8ee251dd75f34d0687b9f200d931e453)
