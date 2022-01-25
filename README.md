@@ -1,5 +1,5 @@
 ## ImLala._.7
-    I'm a Front-End developer, Planner, and Designer.         
+    I'm a Front-End developer, Planner, and Designer.
     I'm studying cryptography and blockchain at the Information Protection and Privacy Laboratory.
   
    
